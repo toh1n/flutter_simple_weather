@@ -1,4 +1,4 @@
-# module9_assignment
+# Simple Weather
 
 Be sure to replace YOUR_API_KEY
 
